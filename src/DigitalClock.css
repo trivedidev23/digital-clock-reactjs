@@ -1,0 +1,26 @@
+hr {
+  align-content: center;
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ui.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  flex-wrap: wrap;
+  background-color: #ffe194;
+}
+
+.ui.segment {
+  background-color: #ffe194;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  height: 100vh;
+  position: relative;
+  flex-wrap: wrap;
+}
